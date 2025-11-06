@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">👋 Merhaba, ben Elif Gündüz</h1>
+<h3 align="center">🎓 İstanbul Gelişim Üniversitesi | Ön Yüz (Frontend) Yazılım Geliştirme Öğrencisi</h3>
 
-<!--
-**elifgndzz/elifgndzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Hakkımda
 
-Here are some ideas to get you started:
+Ben bir yazılım geliştirme öğrencisiyim ve web tasarımı dünyasının ön yüz tarafına ilgi duyuyorum.  
+<b> HTML, CSS ve JavaScript üzerine çalışıyor, kullanıcı dostu ve modern arayüzler tasarlamayı öğreniyor ve kendimi geliştiriyorum.</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Hedefim bu alanda ilerlemek ve proje üretmek.
+
+📫Bana buradan ulaşabilirsin:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/elif-g%C3%BCnd%C3%BCz-29102a336)
+
+
+[![Gmail](https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elifece3452@gmail.com)elifece3452@gmail.com
+
+
+
+
