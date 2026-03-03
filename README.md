@@ -3,8 +3,8 @@
 
 🌟 Hakkımda |
 
-Ben bir yazılım geliştirme öğrencisiyim ve web tasarımı dünyasının ön yüz tarafına ilgi duyuyorum.  
-<b> HTML, CSS ve JavaScript üzerine çalışıyor, kullanıcı dostu ve modern arayüzler tasarlamayı öğreniyor ve kendimi geliştiriyorum.</b>
+ Ben  web tasarımı ve frontend geliştirme ile ilgilenen bir yazılım öğrencisiyim.HTML, CSS ve JavaScript kullanarak kullanıcı dostu arayüzler tasarlıyor ve kendimi geliştiriyorum.
+ Bu dönemde <b>React </b> ve <b> Veritabanı </b> öğrenerek kendimi daha ileri seviyeye taşımayı hedefliyorum.
 
 🚀 Hedefim bu alanda ilerlemek ve proje üretmek.
 
@@ -12,7 +12,7 @@ Ben bir yazılım geliştirme öğrencisiyim ve web tasarımı dünyasının ön
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/elif-g%C3%BCnd%C3%BCz-29102a336)
 
 
-[![Gmail](https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elifece3452@gmail.com)elifece3452@gmail.com
+[![Gmail](https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elif.gunduz@ogr.gelisim.edu.tr)elif.gunduz@ogr.gelisim.edu.tr
 
 
 
